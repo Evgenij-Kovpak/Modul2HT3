@@ -1,0 +1,15 @@
+C:\Users\evgen\source\repos\Modul2HT3\Modul2HT3\bin\Debug\net6.0\Modul2HT3.exe
+C:\Users\evgen\source\repos\Modul2HT3\Modul2HT3\bin\Debug\net6.0\Modul2HT3.deps.json
+C:\Users\evgen\source\repos\Modul2HT3\Modul2HT3\bin\Debug\net6.0\Modul2HT3.runtimeconfig.json
+C:\Users\evgen\source\repos\Modul2HT3\Modul2HT3\bin\Debug\net6.0\Modul2HT3.dll
+C:\Users\evgen\source\repos\Modul2HT3\Modul2HT3\bin\Debug\net6.0\Modul2HT3.pdb
+C:\Users\evgen\source\repos\Modul2HT3\Modul2HT3\obj\Debug\net6.0\Modul2HT3.csproj.AssemblyReference.cache
+C:\Users\evgen\source\repos\Modul2HT3\Modul2HT3\obj\Debug\net6.0\Modul2HT3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evgen\source\repos\Modul2HT3\Modul2HT3\obj\Debug\net6.0\Modul2HT3.AssemblyInfoInputs.cache
+C:\Users\evgen\source\repos\Modul2HT3\Modul2HT3\obj\Debug\net6.0\Modul2HT3.AssemblyInfo.cs
+C:\Users\evgen\source\repos\Modul2HT3\Modul2HT3\obj\Debug\net6.0\Modul2HT3.csproj.CoreCompileInputs.cache
+C:\Users\evgen\source\repos\Modul2HT3\Modul2HT3\obj\Debug\net6.0\Modul2HT3.dll
+C:\Users\evgen\source\repos\Modul2HT3\Modul2HT3\obj\Debug\net6.0\refint\Modul2HT3.dll
+C:\Users\evgen\source\repos\Modul2HT3\Modul2HT3\obj\Debug\net6.0\Modul2HT3.pdb
+C:\Users\evgen\source\repos\Modul2HT3\Modul2HT3\obj\Debug\net6.0\Modul2HT3.genruntimeconfig.cache
+C:\Users\evgen\source\repos\Modul2HT3\Modul2HT3\obj\Debug\net6.0\ref\Modul2HT3.dll
